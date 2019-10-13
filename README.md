@@ -1,5 +1,7 @@
 # image-processing-chromosomes
 [![Python Version](https://img.shields.io/badge/python-3.7.3-green.svg)](https://img.shields.io/badge/python-3.7.3-green.svg)
+![GitHub](https://img.shields.io/github/license/naanadr/image-processing-chromosomes)
+
 
 
 ## Setup Project
